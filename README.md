@@ -1,4 +1,5 @@
-# Title
+# BME450-Project
+
 Breast Cancer Tumor Classification
 ## Team members
 David Knopp (dknopp8), Christian Petersen (peter621purdue)
